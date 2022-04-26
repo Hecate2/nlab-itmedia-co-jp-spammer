@@ -1,0 +1,1 @@
+Run `voter.py`. Remember to use RESIDANTAL PROXY IPs and `headless=False` with a large browser viewport!

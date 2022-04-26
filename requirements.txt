@@ -1,0 +1,5 @@
+httpx==0.21.0
+psutil==5.9.0
+playwright==1.21.0
+asyncio_pool==0.5.2
+cf_clearance==0.0.4
